@@ -1,0 +1,43 @@
+/* CSS Style */
+/* By Ruben Lopez */
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+.navbar {
+    background-color: #333;
+}
+
+.navbar-brand {
+    font-size: 24px;
+}
+
+#hero {
+    background-color: #333;
+    color: #fff;
+}
+
+.card {
+    border: none;
+    border-radius: 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    color: #cc0099;
+    /* Purple color */
+    font-size: 28px;
+}
+
+.card-text {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+}
